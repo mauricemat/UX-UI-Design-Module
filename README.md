@@ -1,6 +1,8 @@
-# (project name)
+# Home Page Presentation
 
-<!-- describe your project -->
+Build a Home Page that presents a classamte. This will be achieved by following UX-UI Design steps. 
+
+ This means we will practice _Stakeholder Interviews_ and _Design Thinking_ by working in pairs to plan the Home Page user personas, backlogs, wireframes, etc.
 
 ## Getting Started
 
