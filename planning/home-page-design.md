@@ -2,9 +2,7 @@
 
 <!-- introduce your interviewee -->
 
-Maurice Mateke. He's from CameroonHe. He's a self-learner and always motivated
-to learn new things. His specialty is corporate communication and public
-affairs.
+Maurice Mateke is from Cameroon. He loves cooking and concern himself with environmental protection. His specialty is corporate communication and public affairs. He worked as consultant in public affair before and now he wants to start a career as a developer.In the future he wants to set up a company to build online tools in communication and marketing areas.
 
 ## Steps
 
@@ -19,6 +17,7 @@ affairs.
   - [3. Capture Findings](#3-capture-findings)
     - [Needs](#needs)
     - [Insights](#insights)
+  - [Stay active. Pay attention to environment protection and society.](#stay-active-pay-attention-to-environment-protection-and-society)
   - [4. Define the Problem](#4-define-the-problem)
   - [5. Open-Ended Ideation](#5-open-ended-ideation)
   - [6. Partner Feedback](#6-partner-feedback)
@@ -51,7 +50,7 @@ affairs.
   - What kind of home page do you want to build?
 - user interview
   - Do you have any interests outside of your job?
-  - Tell me what a normal day at work is like for you?
+  - Tell me what a normal day at study is like for you?
   - What are you most proud of?
   - What would be your ideal next project?
   - What do you want to achieve in the next year?
@@ -86,31 +85,18 @@ affairs.
 <!-- Consolidate your notes into a few sentences. Do your best to express what your partner was trying to say, not what you learned from them. -->
 
 - stockholder interview
-  - Maurice have a bachelor degree in political communication and international
-    trade and then he completed a master degree in political science. He worked
-    as consultant in public affair. In 2015 he came to Belgium. He joined HYF
-    program to expand his skills in digital area.
-  - He wants to work as a developer and build online tools in communication and
-    marketing areas.
-  - His want to build a home page to present his achievement and skills. What
-    he's doing. Employer can contact him and follow his social media.
-  - He find the home page is important because companies are increasingly trying
-    to find talented programmer online.
-- user interview
-  - Maurice loves cooking different countries' meal. He is interested in taking
-    care of the nature and helping people to acquire better life.
-  - In the morning he reads articles about coding and design. watching tutorial
-    from senior developer about overcome challenge and gain achievement.
-  - He is proud of being able to study many things, going beyond himself, his
-    speciality, people's expectation.
-  - His ideal project is setting up a company in digital area. He want to
-    develop online tools to help small organization and people's work and
-    provide the tools in an affordable price.
-  - Next year he want to complete the study in HYF. Gain certification and
-    digital skills.
-  - He wants to see the achievement from the home page, contact of the former
-    company, how to treat fail, Team work: big team or small team, Project:
-    group project and open source project which you've contributed to.
+  Maurice wants to build a home page to present:   
+  - his achievement and skills  
+  - What's he doing?   
+  - contact information: so employer can contact him and follow his social media  
+  - He find the home page is important because companies are increasingly trying to find talented programmer online.    
+- user interview  
+  On the home page, he wants to see:  
+  - the owner's achievements  
+  - contact information of the former company  
+  - how to deal with failure  
+  - team work information: big team or small team  
+  - project information: group project and open source project which he/she has contributed to  
 
 ---
 
@@ -119,6 +105,7 @@ affairs.
 <!--
   In this follow up interview you will present to your partner a summary of your first interview. You will do your best effort to understand, rephrase, and communicate your partners needs back to them. Take this chance to listen for their feedback on how well you understand their situation. Update your notes accordingly
 -->
+feedback?
 
 ### Notes
 
@@ -130,14 +117,30 @@ affairs.
 
 <!-- Take some time to consolidate & summarize what you learned in the previous two interviews. -->
 
+- stockholder interview
+  Maurice wants to build a home page to present:   
+  - his achievement and skills  
+  - What's he doing?   
+  - contact information: so employer can contact him and follow his social media  
+  - He find the home page is important because companies are increasingly trying to find talented programmer online.    
+- user interview  
+  On the home page, he wants to see:  
+  - the owner's achievements  
+  - contact information of the former company  
+  - how to deal with failure  
+  - team work information: big team or small team  
+  - project information: group project and open source project which he/she has contributed to  
+
 ### Needs
 
 <!-- What exactly does your partner need from their home page? Are they looking for collaborators? A job?Learning opportunities? Or something you never expected? -->
+What exactly does your partner need from their home page? Are they looking for collaborators? A job?Learning opportunities? Or something...
 
+A stand out personal portfolio website to show his achievements and skills, which also will help him to find a job as developer.
 ### Insights
 
 <!-- New learnings about your partner to use in your design -->
-
+Stay active. Pay attention to environment protection and society.
 ---
 
 ## 4. Define the Problem
@@ -155,7 +158,14 @@ affairs.
   - _partner's name_ needs a way to _?_.
     - Unexpectedly, in their world, _?_.
 -->
-
+- How do they want to be represented?
+- What do they want different visitors to see them?
+  
+  
+- Maurice needs a way to present his achievement and digital skills.
+- 
+- He wants potential employers and programers and clients to visit his page.
+- 
 ---
 
 ## 5. Open-Ended Ideation
