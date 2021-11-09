@@ -2,7 +2,7 @@
 
 <!-- introduce your interviewee -->
 
-Maurice Mateke is from Cameroon. He loves cooking and concern himself with environmental protection. His specialty is corporate communication and public affairs. He worked as consultant in public affair before and now he wants to start a career as a developer.In the future he wants to set up a company to build online tools in communication and marketing areas.
+Maurice Mateke is from Cameroon. He loves cooking and concern himself with environmental protection. His specialty is corporate communication and public affairs. He worked as consultant in public affair before and now he wants to start a career as a developer. In the future he wants to set up a company to build online tools in communication and marketing areas.
 
 ## Steps
 
@@ -17,7 +17,6 @@ Maurice Mateke is from Cameroon. He loves cooking and concern himself with envir
   - [3. Capture Findings](#3-capture-findings)
     - [Needs](#needs)
     - [Insights](#insights)
-  - [Stay active. Pay attention to environment protection and society.](#stay-active-pay-attention-to-environment-protection-and-society)
   - [4. Define the Problem](#4-define-the-problem)
   - [5. Open-Ended Ideation](#5-open-ended-ideation)
   - [6. Partner Feedback](#6-partner-feedback)
@@ -140,7 +139,7 @@ A stand out personal portfolio website to show his achievements and skills, whic
 ### Insights
 
 <!-- New learnings about your partner to use in your design -->
-Stay active. Pay attention to environment protection and society.
+    Stay active. Pay attention to environment protection and society.
 ---
 
 ## 4. Define the Problem
