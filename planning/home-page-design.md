@@ -1,4 +1,4 @@
-# Maurice's Home Page
+# Maurice Mateke's Home Page
 
 <!-- introduce your interviewee -->
 
@@ -6,7 +6,7 @@ Maurice Mateke is from Cameroon. He loves cooking and concern himself with envir
 
 ## Steps
 
-- [Maurice's Home Page](#maurices-home-page)
+- [Maurice Mateke's Home Page](#maurice-matekes-home-page)
   - [Steps](#steps)
   - [1. First Interview](#1-first-interview)
     - [Notes](#notes)
@@ -104,43 +104,57 @@ Maurice Mateke is from Cameroon. He loves cooking and concern himself with envir
 <!--
   In this follow up interview you will present to your partner a summary of your first interview. You will do your best effort to understand, rephrase, and communicate your partners needs back to them. Take this chance to listen for their feedback on how well you understand their situation. Update your notes accordingly
 -->
-feedback?
+
+He wants to see the interview summary divided into stockholder part and user part, so he can view it easily.  
 
 ### Notes
+- stockholder interview  
+  - open mind, learning new things.  
+  - questions, collaborator.  
+- user interview  
+  - one page website with navbar.   
 
 ### Summary
 
----
+- stockholder interview  
+  - Maurice tends to be represented as an open mind person who loves to learn new things(including coding) and to beyond himself.  
+  - He wants any visitors can get in touch with him and ask him questions or give him suggestions.  
+- user interview  
+  - He prefers a one page website with navbar.   
 
 ## 3. Capture Findings
 
 <!-- Take some time to consolidate & summarize what you learned in the previous two interviews. -->
 
-- stockholder interview
+- stockholder interview  
   Maurice wants to build a home page to present:   
   - his achievement and skills  
   - What's he doing?   
   - contact information: so employer can contact him and follow his social media  
-  - He find the home page is important because companies are increasingly trying to find talented programmer online.    
+  - He find the home page is important because companies are increasingly trying to find talented programmer online.  
+  - He tends to be represented as an open mind person who loves to learn new things(including coding) and to beyond himself.    
+  - He wants any visitors can get in touch with him and ask him questions or give him suggestions.     
 - user interview  
   On the home page, he wants to see:  
   - the owner's achievements  
   - contact information of the former company  
   - how to deal with failure  
   - team work information: big team or small team  
-  - project information: group project and open source project which he/she has contributed to  
+  - project information: group project and open source project which he/she has contributed to    
+  - He prefers a one page website with navbar.    
 
 ### Needs
 
 <!-- What exactly does your partner need from their home page? Are they looking for collaborators? A job?Learning opportunities? Or something you never expected? -->
-What exactly does your partner need from their home page? Are they looking for collaborators? A job?Learning opportunities? Or something...
 
-A stand out personal portfolio website to show his achievements and skills, which also will help him to find a job as developer.
+A personal portfolio website to show his achievements and coding skills. A way to keep contact with employers, clients and programers if they want to ask him questions or try to find a collaborator. This will help him to improve his coding skills and find a job or start his own company later.  
+
 ### Insights
 
 <!-- New learnings about your partner to use in your design -->
-    Stay active. Pay attention to environment protection and society.
----
+    
+Stay active. Keep in touch with other programmers and try to contribute to open source projects.  
+
 
 ## 4. Define the Problem
 
@@ -157,15 +171,11 @@ A stand out personal portfolio website to show his achievements and skills, whic
   - _partner's name_ needs a way to _?_.
     - Unexpectedly, in their world, _?_.
 -->
-- How do they want to be represented?
-- What do they want different visitors to see them?
-  
-  
-- Maurice needs a way to present his achievement and digital skills.
-- 
-- He wants potential employers and programers and clients to visit his page.
-- 
----
+
+- Maurice needs a way to present his achievement and digital skills, and keep contact with employers and other programers if they want to ask him questions or try to find a collaborator. 
+- He tends to be represented as an open mind person who loves to learn new things(including coding) and to beyond himself.
+- He wants classmates, coaches, friends, programers, clients and employers to visit his page.
+- He wants any visitors can get in touch with him and ask him questions or give him suggestions.
 
 ## 5. Open-Ended Ideation
 
