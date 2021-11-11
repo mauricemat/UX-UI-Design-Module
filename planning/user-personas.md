@@ -1,8 +1,7 @@
 # User Personas
 
 <!-- some introduction -->
- Maurice needs a way to present his achievement and digital skills, and keep contact with employers and other programers if they want to ask him questions or try to find a collaborator. 
- Maurice wants to build a personal portfolio website to show his achievements and coding skills. A way to keep contact with employers, clients and programers if they want to ask him questions or try to find a collaborator. This user persona is to help him building his homepage. It include a client(Interior designer), a collaborator(computer science student) and a senior programmer or an employer.  
+ Maurice wants to build a personal portfolio website to show his achievements and coding skills. He needs a way to keep contact with employers, clients and programers if they want to ask him questions or try to find a collaborator. This user persona is to help him building his homepage. It includes a client(Interior designer), a collaborator(computer science student) and a senior programmer or an employer.  
 
 ---
 
@@ -12,7 +11,7 @@
  
 [semrush persona: Interior Designer](https://www.semrush.com/persona/share/-wvVcJ6VcsQtdV0V1YzYiWRrzqbVn3wstfMTzbDxW4w/)  
 
-- **Bio**:
+- **Bio**:  
   Lindsay is a blossoming interior designer She approaches each project as a puzzle, and believes her job is to create the pieces that blend beauty, function and practicality, reflecting on the best possible look for the budget, way of life, and specifics of the location.  
 
 - **Needs/Goals**:
