@@ -10,12 +10,13 @@ Some boundaries around my project.
   - UI design or color schemes
   - technologies (sometimes a client will tell you what to use)
 -->
+
 - project deadlines
   - planning: 12.11.2021
   - retrospective-planning: 12.11.2021
   - development: 19.11.2021
   - retrospective-development: 19.11.2021
-  
+
 ## Internal: Involuntary
 
 <!--
@@ -23,13 +24,13 @@ Some boundaries around my project.
   - each of your individual skill levels
   - amount of time available to work on the project
 -->
+
 - skill levels
   - Figma: form the very beginning
   - HTML and CSS: basic level
   - JavaScript: form the very beginning
 - amount of time available to work on the project
   - 15h/week
-  
 
 ## Internal: Voluntary
 
@@ -40,6 +41,7 @@ Some boundaries around my project.
   - the number of hours you want to spend working
   - only using the colors black and white
 -->
+
 - coding style & conventions
   - build a simple home page
   - using comment to explain purpose and dividing section

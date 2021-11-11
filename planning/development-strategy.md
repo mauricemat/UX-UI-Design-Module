@@ -11,7 +11,9 @@
   - loading program data
   - rendering the initial user interface
 -->
-- Create a new repo using [template-html-css](https://github.com/HackYourFutureBelgium/template-html-css)
+
+- Create a new repo using
+  [template-html-css](https://github.com/HackYourFutureBelgium/template-html-css)
 - Create /planning
   - backlog.md
   - communication.md
@@ -20,7 +22,7 @@
   - design.md
   - development-strategy.md
   <!-- home-page-design.md: Template file for co-designing your partner's home page -->
-  - home-page-design.md  
+  - home-page-design.md
   - retrospective.md
   - user-personas.md
 - Activate Github pages
