@@ -1,12 +1,6 @@
 {
   "language": "en",
-  "words": [
-    "Alina",
-    "Pearlis",
-    "READEME",
-    "semrush",
-    "wireframes"
-  ],
+  "words": ["Alina", "Pearlis", "READEME", "semrush", "wireframes"],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
