@@ -43,16 +43,21 @@ Maurice Mateke is from Cameroon. He loves cooking and concern himself with envir
   The best way to do your interview is with a lot of `why?`. Start your interview with one or two open-ended questions and follow up with a lot of `why?`, this gives your partner the chance to really explain themselves instead of just answering your questions. You might find that they even learn something about themselves!
 -->
 
-- stockholder interview
-  - What's your background?
-  - What is your ambition?
-  - What kind of home page do you want to build?
-- user interview
-  - Do you have any interests outside of your job?
-  - Tell me what a normal day at study is like for you?
-  - What are you most proud of?
-  - What would be your ideal next project?
-  - What do you want to achieve in the next year?
+- stockholder interview  
+  - What's your background?  
+  - What is your ambition?  
+  - What kind of home page do you want to build?  
+  - What do you need form your home page? Are you looking for collaborators? A job? Learning opportunities?  
+  - How do you want to be represented?  
+  - Who do you want to visit your homepage?  
+  - What do you want different visitors to see you?  
+  
+- user interview  
+  - Do you have any interests outside of your job?  
+  - Tell me what a normal day at study is like for you?  
+  - What are you most proud of?  
+  - What would be your ideal next project?  
+  - What do you want to achieve in the next year?  
 
 ### Notes
 
@@ -65,6 +70,7 @@ Maurice Mateke is from Cameroon. He loves cooking and concern himself with envir
   - Home page to present his achievement and skills. What he's doing. Contact
     him.Social media link.
   - Companies are increasingly trying to find talented programmer online.
+  
 - user interview
   - Cooking. different countries meal. finding recipes and learn how to cook.
     Taking care of the nature. Help people to acquire better life.
@@ -89,6 +95,7 @@ Maurice Mateke is from Cameroon. He loves cooking and concern himself with envir
   - What's he doing?   
   - contact information: so employer can contact him and follow his social media  
   - He find the home page is important because companies are increasingly trying to find talented programmer online.    
+  
 - user interview  
   On the home page, he wants to see:  
   - the owner's achievements  
@@ -111,6 +118,7 @@ He wants to see the interview summary divided into stockholder part and user par
 - stockholder interview  
   - open mind, learning new things.  
   - questions, collaborator.  
+  
 - user interview  
   - one page website with navbar.   
 
@@ -119,6 +127,7 @@ He wants to see the interview summary divided into stockholder part and user par
 - stockholder interview  
   - Maurice tends to be represented as an open mind person who loves to learn new things(including coding) and to beyond himself.  
   - He wants any visitors can get in touch with him and ask him questions or give him suggestions.  
+  
 - user interview  
   - He prefers a one page website with navbar.   
 
@@ -133,7 +142,8 @@ He wants to see the interview summary divided into stockholder part and user par
   - contact information: so employer can contact him and follow his social media  
   - He find the home page is important because companies are increasingly trying to find talented programmer online.  
   - He tends to be represented as an open mind person who loves to learn new things(including coding) and to beyond himself.    
-  - He wants any visitors can get in touch with him and ask him questions or give him suggestions.     
+  - He wants any visitors can get in touch with him and ask him questions or give him suggestions. 
+      
 - user interview  
   On the home page, he wants to see:  
   - the owner's achievements  
@@ -184,7 +194,7 @@ Stay active. Keep in touch with other programmers and try to contribute to open 
   How are the designs different? How does each one serve your partner differently?
 -->
 
-- [wireframe name]()
+- [Wireframe: Maurice Mateke's Home Page](https://excalidraw.com/#json=k878kPJM9jIZECqMw0R3z,mhFdvxCshTc-WV9E7Ph7rw)
 - ...
 
 ---
