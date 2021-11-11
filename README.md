@@ -1,7 +1,13 @@
 # Home Page Presentation
 
-Build my home Page that presents to showcase everything I've learned so far. 
- This means we will practice _Stakeholder Interviews_, _User Interviews_ and _Design Thinking_ by working in pairs to plan the Home Page user personas, backlogs, wireframes, etc.
+Build my home Page that presents to showcase everything I've learned so far.
+This means we will practice _Stakeholder Interviews_, _User Interviews_ and
+_Design Thinking_ by working in pairs to plan the Home Page user personas,
+backlogs, wireframes, etc.
+
+<!-- Alina: the live preview url need to adapt -->
+
+Maurice Mateke's Home Page [Live Preview](https://github.com/mauricemat/mauricemat.github.io)
 
 ## Getting Started
 

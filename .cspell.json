@@ -1,6 +1,11 @@
 {
   "language": "en",
-  "words": [],
+  "words": [
+    "Alina",
+    "Mateke's",
+    "wireframe",
+    "wireframes"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
