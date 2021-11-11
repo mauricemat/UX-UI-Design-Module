@@ -23,6 +23,7 @@ Maurice Mateke is from Cameroon. He loves cooking and concern himself with envir
     - [Notes](#notes-2)
     - [Summary](#summary-2)
   - [7. Plan](#7-plan)
+  - [See `/planning` design and backlog.](#see-planning-design-and-backlog)
   - [8. Design](#8-design)
   - [9. Final Feedback](#9-final-feedback)
     - [Notes](#notes-3)
@@ -157,7 +158,9 @@ He wants to see the interview summary divided into stockholder part and user par
 
 <!-- What exactly does your partner need from their home page? Are they looking for collaborators? A job?Learning opportunities? Or something you never expected? -->
 
-A personal portfolio website to show his achievements and coding skills. A way to keep contact with employers, clients and programers if they want to ask him questions or try to find a collaborator. This will help him to improve his coding skills and find a job or start his own company later.  
+- A personal portfolio website to show his achievements and coding skills. 
+- A way to keep contact with employers, clients and programers if they want to ask him questions or try to find a collaborator. 
+- A way to improve his coding skills and find a job or start his own company later.  
 
 ### Insights
 
@@ -212,7 +215,7 @@ Stay active. Keep in touch with other programmers and try to contribute to open 
 ## 7. Plan
 
 <!-- With your partner, come up with a Backlog and Wireframe for their Home page -->
-
+See `/planning` design and backlog.
 ---
 
 ## 8. Design
