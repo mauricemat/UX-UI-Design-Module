@@ -16,22 +16,22 @@ build online tools in communication and marketing areas.
     - [Notes](#notes)
     - [Summary](#summary)
   - [2. Follow-Up Interview](#2-follow-up-interview)
-    - [Notes](#notes-1)
-    - [Summary](#summary-1)
+    - [Notes - Follow-Up Interview](#notes---follow-up-interview)
+    - [Summary - Follow-Up Interview](#summary---follow-up-interview)
   - [3. Capture Findings](#3-capture-findings)
     - [Needs](#needs)
     - [Insights](#insights)
   - [4. Define the Problem](#4-define-the-problem)
   - [5. Open-Ended Ideation](#5-open-ended-ideation)
   - [6. Partner Feedback](#6-partner-feedback)
-    - [Notes](#notes-2)
-    - [Summary](#summary-2)
+    - [Notes - Partner Feedback](#notes---partner-feedback)
+    - [Summary - Partner Feedback](#summary---partner-feedback)
   - [7. Plan](#7-plan)
   - [See `/planning` design and backlog](#see-planning-design-and-backlog)
   - [8. Design](#8-design)
   - [9. Final Feedback](#9-final-feedback)
-    - [Notes](#notes-3)
-    - [Summary](#summary-3)
+    - [Notes - Final Feedback](#notes---final-feedback)
+    - [Summary - Final Feedback](#summary---final-feedback)
   - [The design and the backlog are very logical. It make sense. He can use it for next phase](#the-design-and-the-backlog-are-very-logical-it-make-sense-he-can-use-it-for-next-phase)
 
 ---
@@ -120,7 +120,7 @@ build online tools in communication and marketing areas.
 He wants to see the interview summary divided into stockholder part and user
 part, so he can view it easily.
 
-### Notes
+### Notes - Follow-Up Interview
 
 - stockholder interview
   - open mind, learning new things.
@@ -128,7 +128,7 @@ part, so he can view it easily.
 - user interview
   - one page website with navbar.
 
-### Summary
+### Summary - Follow-Up Interview
 
 - stockholder interview
   - Maurice tends to be represented as an open mind person who loves to learn
@@ -222,9 +222,9 @@ source projects.
 
 <!-- Discuss your ideas with your partner. lots of `why?`. -->
 
-### Notes
+### Notes - Partner Feedback
 
-### Summary
+### Summary - Partner Feedback
 
 Summary is ok. Wireframe is also ok.
 
@@ -252,9 +252,9 @@ color: sky blue; icons: use black color icons only.
   After you've finished the Plan & Design ask your partner for feedback. In a professional setting this would be the beginning of a whole new development cycle.
 -->
 
-### Notes
+### Notes - Final Feedback
 
-### Summary
+### Summary - Final Feedback
 
 ## The design and the backlog are very logical. It make sense. He can use it for next phase
 
