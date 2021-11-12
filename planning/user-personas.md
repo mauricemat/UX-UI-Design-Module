@@ -42,6 +42,7 @@ an employer.
 
 <!-- more personas ... -->
 
+
 ## Senior Developer
 
 [semrush persona: Senior Developer](https://www.semrush.com/persona/share/Kkje4RfialyMl3MzzaTf9RSCtjiHD7gwdBaGSq2GmmI/)

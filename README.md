@@ -6,6 +6,7 @@ _Design Thinking_ by working in pairs to plan the Home Page user personas,
 backlogs, wireframes, etc.
 
 
+
 <!-- Alina: the live preview url need to adapt -->
 
 Maurice Mateke's Home Page [Live Preview](https://github.com/mauricemat/mauricemat.github.io)
