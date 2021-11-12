@@ -32,7 +32,6 @@ build online tools in communication and marketing areas.
   - [9. Final Feedback](#9-final-feedback)
     - [Notes - Final Feedback](#notes---final-feedback)
     - [Summary - Final Feedback](#summary---final-feedback)
-  - [The design and the backlog are very logical. It make sense. He can use it for next phase](#the-design-and-the-backlog-are-very-logical-it-make-sense-he-can-use-it-for-next-phase)
 
 ---
 
@@ -256,7 +255,8 @@ color: sky blue; icons: use black color icons only.
 
 ### Summary - Final Feedback
 
-## The design and the backlog are very logical. It make sense. He can use it for next phase
+The design and the backlog are very logical. It make sense.
+He can use it for next phase.
 
 ---
 
