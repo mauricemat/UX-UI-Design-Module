@@ -8,6 +8,7 @@
     "wireframe",
     "wireframes"
   ],
+
   "ignorePaths": [
     "node_modules/**",
     "package.json",

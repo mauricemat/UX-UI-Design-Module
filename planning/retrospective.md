@@ -2,7 +2,16 @@
 
 ## Stop Doing
 
+- `/planning`communication
+- 1st and 2nd interview
+- user personas
+- wireframe
+- backlog
+
 ## Continue Doing
+
+- retrospective
+- README
 
 ## Start Doing
 
