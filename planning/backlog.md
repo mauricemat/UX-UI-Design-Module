@@ -2,10 +2,10 @@
 
 <!-- A collection of user stories for your project. Stories inside of each priority level are not necessarily in order. You and your team will decide when to develop each story by drawing out your [Story Sequencing](#story-sequencing). -->
 
-This backlog shows user stories for Maurice's project.
-A collection of user stories for your project. Stories inside of each priority
-level are not necessarily in order. You and your team will decide when to
-develop each story by drawing out your [Story Sequencing](#story-sequencing).
+This backlog shows user stories for Maurice's project. A collection of user
+stories for your project. Stories inside of each priority level are not
+necessarily in order. You and your team will decide when to develop each story
+by drawing out your [Story Sequencing](#story-sequencing).
 
 ## Must-Haves
 
@@ -39,12 +39,13 @@ are necessary for basic usability:
 
   - I want to see his/her portfolio, so that I can judge if he/she is qualified.
   - I want to see his/her resume, so that I can know more about him/her.
-  - I want to see his/her location, so that I know if he/she is near by our company.
+  - I want to see his/her location, so that I know if he/she is near by our
+    company.
 
   - [ ] _there is a portfolio section on the homepage_
   - [ ] _there is a way to download resume or read it_
-  - [ ] _there is Location on the homepage_
-=======
+  - [ ] # _there is Location on the homepage_
+
 - **user story name**: As a [type of user] I want to [do something] so that [I
   achieve some goal]
   - Given [context] when [a specific action is performed] then [a set of

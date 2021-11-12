@@ -1,8 +1,6 @@
 {
   "language": "en",
-  "words": [
-    "wireframe"
-  ],
+  "words": ["wireframe"],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
