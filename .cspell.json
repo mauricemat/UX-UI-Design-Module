@@ -1,10 +1,7 @@
 {
   "language": "en",
   "words": [
-    "Alina",
-    "Mateke's",
-    "wireframe",
-    "wireframes"
+    "wireframe"
   ],
   "ignorePaths": [
     "node_modules/**",
