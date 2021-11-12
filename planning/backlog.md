@@ -36,9 +36,11 @@ are necessary for basic usability:
 
   - I want to see his/her portfolio, so that I can judge if he/she is qualified.
   - I want to see his/her resume, so that I can know more about him/her.
+  - I want to see his/her location, so that I know if he/she is near by our company.
 
   - [ ] _there is a portfolio section on the homepage_
   - [ ] _there is a way to download resume or read it_
+  - [ ] _there is Location on the homepage_
 
 ## Should-Haves
 
