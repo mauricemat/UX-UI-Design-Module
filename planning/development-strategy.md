@@ -4,17 +4,16 @@ The project is to build my homepage based on
 the design provided by my partner Alina.
 
 The website will be developed through
-the following User stories and Ussues below.
+the following User stories and Issues below.
 
-`Notice`: Our webpage is one page with diffrents sections.
-No multi-pages.
+> Note: Our webpage is one page with diffrents sections. No multi-pages.
+ 
 
 ## Must Haves
 
-
 ### Header components (present on all pages): Everything but text
 
- 1- Logo (my name turned into logo)
+1- Logo (my name turned into the logo)
 
 **User story**
 
@@ -31,7 +30,6 @@ As a user I can see the logo of the webpage.
 `2. CSS`
 - [ ] use _left_ align to place the logo.
 - [ ] The issue will be developed on the branch _1-logo-css_.
-
 
 ### Header components (present on all pages): Text
 
@@ -129,7 +127,7 @@ As a user I can find general info about Maurice.
 
 **User story**
 
-As a user I can find explanations about Maurice's achievements and realisations in genaral.
+As a user I can find explanations about Maurice's achievements and realisations in general.
 
 - This will be a section on the home page.
 
@@ -178,7 +176,7 @@ This means that the contact form is visible.
 
 **User story**
 
-As a user I can identify Maurice throught his picture.
+As a user I can identify Maurice through his picture.
  
 **Issues**
 
@@ -198,7 +196,7 @@ As a user I can identify Maurice throught his picture.
 
 **User story**
 
-As a user I can find images about Maurice's achievements and realisations in genaral.
+As a user I can find images about Maurice's achievements and realisations in general.
 
 - This will be a section on the home page.
 
