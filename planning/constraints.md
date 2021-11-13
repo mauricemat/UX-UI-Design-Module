@@ -25,6 +25,6 @@
 
 <!--  constraints that your team decided on to help scope the project. they may include:  - coding style & conventions  - agree on a code review checklist for the project repository  - the number of hours you want to spend working  - only using the colors black and white-->
 
-- I set a CSS preformat md file for the whole homepage.
+- I will set a CSS preformat md file for the whole homepage.
 - I will format the code and run the necessary checks before any merging.
 - I will apply a responsive design.
