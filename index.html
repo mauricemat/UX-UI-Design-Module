@@ -5,182 +5,301 @@
     <link rel="icon" type="image/svg+xml" href="./client/assets/favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Portfolio</title>
-
     <link href="./styles/index.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
   </head>
   <body>
-    <header>
-      <h1>My Homepage</h1>
-      <div>
-        <ul>
-          <li>About me</li>
-          <li>Competencies</li>
-          <li>Achievements</li>
-          <li>Contact me</li>
-        </ul>
+      <!-- Navbar -->
+      <div class="navbar">
+          <div class="container flex">
+              <h1 class="logo">Portfolio</h1>
+              <nav>
+                  <ul>
+                      <li><a href="about.html">About me</a></li>
+                      <li><a href="competencies.html">Competencies</a></li>
+                      <li><a href="achievements.html">Achievements</a></li>
+                      <li><a href="contact.html">Contact me</a></li>
+                  </ul>
+              </nav>
+          </div>
       </div>
+
+      <!-- Showcase -->
+    <section class="showcase">
+      <div class="container grid">
+          <div class="showcase-text">
+              <h1>Easier Deployment</h1>
+              <p>Deploy web apps of all kinds, from large scale enterprise APIs to static websites for individuals. Fill out the form to try a demo of our platform</p>
+              <a href="features.html" class="btn btn-outline">Read More</a>
+          </div>
+
+          <div class="showcase-form card">
+            <h2>Request a Demo</h2>
+            <form>
+                <div class="form-control">
+                    <input type="text" name="name" placeholder="Name" required>
+                </div>
+                <div class="form-control">
+                    <input type="text" name="Surname" placeholder="Surname" required>
+                </div>
+                <div class="form-control">
+                    <input type="email" name="email" placeholder="Email" required>
+                </div>
+                <div class="form-control">
+                  <input type="message" name="message" placeholder="Message" required>
+              </div>
+                <input type="submit" value="Send" class="btn btn-primary">
+            </form>
+        </div>
+    </div>
+</section>
+
+<!-- Stats -->
+<section class="stats">
+  <div class="container">
+      <h3 class="stats-heading text-center my-1">
+          Welcome to the best platform for building applications 
+          of all types with modern architecture and scaling
+      </h3>
+
+      <div class="grid grid-3 text-center my-4">
+          <div>
+            <i class="fas fa-server fa-3x"></i>
+            <h3>10,349,405</h3>
+            <p class="text-secondary">Deployments</p>
+        </div>
+        <div>
+            <i class="fas fa-upload fa-3x"></i>
+            <h3>987 TB</h3>
+            <p class="text-secondary">Published</p>
+        </div>
+        <div>
+            <i class="fas fa-project-diagram fa-3x"></i>
+            <h3>2,343,265</h3>
+            <p class="text-secondary">Projects</p>
+          </div>
+      </div>
+  </div>
+</section>
+
+    </body>
+    </html>
+
+<!--
+  <header>
+      <h1>My Homepage</h1>
+      <nav>
+        <ul>
+          <li><a href="#"></a>About me</li>
+          <li><a href="#"></a>Competencies</li>
+          <li><a href="#"></a>Achievements</li>
+          <li><a href="#"></a>Contact me</li>
+        </ul>
+      </nav>
     </header>
-    <main>
-      <article>
+
+    <section class="container">
+      <article class="item">
         <h2>Who I am</h2>
         <img src="logo\profile_photo.png" alt="profile_photo">
         <p>Hello World! I am Maurice, a Front-End Web Developer
           student based in Brussels. From communication to lines
           of code on a web page. I'm bringing the creativity 
           of the communication industry to a webpage near you.</p>
-
-          <h2>My purpose</h2>
-          <p>I love combining the worlds of logic
+        </article>
+      <article>
+        <h2>My purpose</h2>
+        <p>I love combining the worlds of logic
           and creative design to make eye-catching, accessible,
           and user-friendly websites and applications.
           I love seeing the results of my 
           efforts helping the user's experience.</p>
+        </article>
 
-          <h2>My soft skills</h2>
-          <P>Analytical
-            Results driven
-            Clear communicator
-            Deadline conscious
-            Strong interpersonal skills
-            Big-picture problem solver.</p>
+      <article>
+        <h2>My soft skills</h2>
+          <span>Analytical</span>
+          <span>Results driven</span>
+          <span>Clear communicator</span>
+          <span>Big-picture problem solver</span>
       </article>
 
+    </section>
+
+    <section>
       <h2>Competencies</h2>
-      <img src="logo\html.png" alt="profile_photo">
-      <p>HTML</p>
-      <img src="logo\css.png" alt="profile_photo">
-      <p>CSS</p>
-      <img src="logo\figma.png" alt="profile_photo">
-      <p>Figma</p>
-      <img src="logo\java.png" alt="profile_photo">
-      <p>Javascript</p>
-      <img src="logo\git.png" alt="profile_photo">
-      <p>Git</p>
-      <img src="logo\react.png" alt="profile_photo">
-      <p>React</p>
-      <img src="logo\accessibility.png" alt="profile_photo">
-      <p>Accessibility</p>
-      <img src="logo\github.png" alt="profile_photo">
-      <p>Github</p>
-      <img src="logo\php.png" alt="profile_photo">
-      <p>php</p>
-      <img src="logo\responsive.png" alt="profile_photo">
-      <p>Responsive</p>
-      <img src="logo\sass.png" alt="profile_photo">
-      <p>Sass</p>
-      <img src="logo\jquery.png" alt="profile_photo">
-      <p>Jquery</p>
-      <img src="logo\firebase.png" alt="profile_photo">
-      <p>Firebase</p>
-      <img src="logo\node.png" alt="profile_photo">
-      <p>Node</p>
 
+        <article>
+          <img src="logo\html.png" alt="profile_photo">
+          <h3>HTML</h3>
+        </article>
+
+        <article>
+          <img src="logo\css.png" alt="profile_photo">
+          <h3>CSS</h3>
+        </article>
+
+        <article>
+          <img src="logo\figma.png" alt="profile_photo">
+          <h3>Figma</h3>
+        </article>
+
+        <article>
+          <img src="logo\java.png" alt="profile_photo">
+          <h3>Javascript</h3>
+        </article>
+
+        <article>
+          <img src="logo\git.png" alt="profile_photo">
+          <h3>Git</h3>
+        </article>
+
+        <article>
+          <img src="logo\react.png" alt="profile_photo">
+          <h3>React</h3>
+        </article>
+
+      </section>
+      
+      <section>
+<article>
+  <img src="logo\accessibility.png" alt="profile_photo">
+  <h3>Accessibility</h3>
+</article>
+
+<article>
+  <img src="logo\github.png" alt="profile_photo">
+  <h3>Github</h3>
+</article>
+
+<article>
+  <img src="logo\php.png" alt="profile_photo">
+  <h3>php</h3>
+</article>
+
+<article>
+  <img src="logo\responsive.png" alt="profile_photo">
+  <h3>Responsive</h3>
+</article>
+
+<article>
+  <img src="logo\sass.png" alt="profile_photo">
+  <h3>Sass</h3>
+</article>
+
+<article>
+  <img src="logo\jquery.png" alt="profile_photo">
+  <h3>Jquery</h3>
+</article>
+      </section>
+
+<section>
+  <article>
+    <img src="logo\firebase.png" alt="profile_photo">
+    <h3>Firebase</h3>
+  </article>
+
+  <article>
+    <img src="logo\node.png" alt="profile_photo">
+    <h3>Node</h3>
+  </article>
+</section>
+
+<section>
       <h2>Achievements</h2>
-      <img src="Achievements\project1.png" alt="project1">
-      <h3>Upperadriatic Italo-Croatian Interregional Trade Union Council</h3>
-      <P>
-        Upperadriatic Italo-Croatian Interregional Trade Union Council
-The Upperadriatic Italo-Croatian CGIL, CISL, UIL, SSSH Interregional
-Trade Union Council is the Association established between the trade unions
-of Friuli Venezia Giulia and of the regions and the neighbouring counties of
-Italy and Croatia, in charge of the activities and initiatives related to
-cross-border cooperation and the protection of frontier workers.
-The website created with WordPress, is available in Italian, English and 
-Croatian. It is the result of over 1 year of work.
-<a href="https://upperadriatic.irtuc.org/">Live site</a>
-      </p>
 
-      <img src="achievements\project2.png" alt="project2">
-      <h3>Nanotechnology Industries Association</h3>
-      <p>
-        NIA, the Nanotechnology Industries Association, asked us to revamp the site
-        design and streamline its internal processes. Based on Drupal,
-        the site includes a large secured area for the association’s members.
-        <a href="https://nanotechia.org/">Live site</a>
-      </p>
+        <article>
+          <img src="Achievements\project1.png" alt="project1">
+          <h3>Upperadriatic Italo-Croatian Interregional Trade Union Council</h3>
+          <P>
+            Upperadriatic Italo-Croatian Interregional Trade Union Council
+    The Upperadriatic Italo-Croatian CGIL, CISL, UIL, SSSH Interregional
+    Trade Union Council is the Association established between the trade unions
+    of Friuli Venezia Giulia and of the regions and the neighbouring counties of
+    Italy and Croatia, in charge of the activities and initiatives related to
+    cross-border cooperation and the protection of frontier workers.
+    The website created with WordPress, is available in Italian, English and 
+    Croatian. It is the result of over 1 year of work.
+    <a href="https://upperadriatic.irtuc.org/">Live site</a>
+          </p>
+        </article>
+    
+          <article>
+            <img src="achievements\project2.png" alt="project2">
+            <h3>Nanotechnology Industries Association</h3>
+            <p>
+              NIA, the Nanotechnology Industries Association, asked us to revamp the site
+              design and streamline its internal processes. Based on Drupal,
+              the site includes a large secured area for the association’s members.
+              <a href="https://nanotechia.org/">Live site</a>
+            </p>
+        </article>
 
-      <img src="achievements\project3.png" alt="project3">
-      <h3>Lumina Consult</h3>
-<p>
-  Lumina Consult provides innovative solutions in political advocacy,
-  strategic communications, public affairs and campaigning.
-  In 2019, we built for them a one-page website based on WordPress.
-  <a href="https://luminaconsult.eu/">Live site</a>
-</p>
+        <article>
+          <img src="achievements\project3.png" alt="project3">
+          <h3>Lumina Consult</h3>
+    <p>
+      Lumina Consult provides innovative solutions in political advocacy,
+      strategic communications, public affairs and campaigning.
+      In 2019, we built for them a one-page website based on WordPress.
+      <a href="https://luminaconsult.eu/">Live site</a>
+    </p>
+        </article>
+</section>
+      
+      <section>
+        <article>
+          <img src="achievements\project4.png" alt="project4">
+          <h3>European Masters in Renewable Energy</h3>
+          <p>
+            In 2019, we helped EUREC to revamp the websites for their European Masters
+            in Renewable Energy. Developed with WordPress,
+            they include a custom plugin that allows EUREC
+            secretariat to manage the enrollment, selection,
+            and granting process for hundreds of applicants every year.
+            <a href="https://master.eurec.be/">Live site</a>
+          </p>
+        </article>
 
-<img src="achievements\project4.png" alt="project4">
-<h3>European Masters in Renewable Energy</h3>
-<p>
-  In 2019, we helped EUREC to revamp the websites for their European Masters
-  in Renewable Energy. Developed with WordPress,
-  they include a custom plugin that allows EUREC
-  secretariat to manage the enrollment, selection,
-  and granting process for hundreds of applicants every year.
-  <a href="https://master.eurec.be/">Live site</a>
-</p>
+        <article>
+          <img src="achievements\project5.png" alt="project5">
+          <h3>Association of European Renewable Energy Research Centers</h3>
+          <p>Developed with WordPress, the new EUREC website features a public area
+            and secure zone for the association members.
+            <a href="https://eurec.be/">Live site</a>
+          </p>          
+        </article>
 
-<img src="achievements\project5.png" alt="project5">
-<h3>Association of European Renewable Energy Research Centers</h3>
-<p>Developed with WordPress, the new EUREC website features a public area
-  and secure zone for the association members.
-  <a href="https://eurec.be/">Live site</a>
-</p>
+        <article>
+          <img src="achievements\project6.png" alt="project6">
+          <h3>European Nutrition Leadership Platform</h3>
+          <p>
+            ENLP is the network of leaders in nutrition in Europe aiming at
+            educating the next generation of leaders in nutrition and health.
+            Developed in Drupal, the site allows attendees registration and alumni
+            collaboration, in a dedicated secured area.
+            <a href="https://enlp.eu.com/">Live site</a>
+          </p>
+        </article>
+      </section>
 
-<img src="achievements\project6.png" alt="project6">
-<h3>European Nutrition Leadership Platform</h3>
-<p>
-  ENLP is the network of leaders in nutrition in Europe aiming at
-  educating the next generation of leaders in nutrition and health.
-  Developed in Drupal, the site allows attendees registration and alumni
-  collaboration, in a dedicated secured area.
-  <a href="https://enlp.eu.com/">Live site</a>
-</p>
+      <section>
+        <article>
+          <h2>Contact me</h2>
+        </article>
 
-<h2>Contact me</h2>
-<div class="container">
-  <form action="/action_page.php">
-    <label for="fname">First Name</label>
-    <input type="text" id="fname" name="firstname" placeholder="Your name..">
-
-    <label for="lname">Last Name</label>
-    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
-
-    <label for="country">Country</label>
-    <select id="country" name="country">
-      <option value="australia">Australia</option>
-      <option value="canada">Canada</option>
-      <option value="usa">USA</option>
-    </select>
-
-    <label for="subject">Subject</label>
-    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
-
-    <input type="submit" value="Submit">
-  </form>
-</div>
-
-
-
-
-
-<h2>Let's connect on</h2>
+        <article>
+          <h2>Let's connect on</h2>
   <ul class="social-icons">
       <li><a href="" class="social-icon"> <i class="fa fa-twitter"></i>twitter</a></li>
       <li><a href="" class="social-icon"> <i class="fa fa-linkedin"></i>linkedin</a></li>
       <li><a href="" class="social-icon"> <i class="fa fa-github"></i>github</a></li>
   </ul>
-</div>
-
-
-
-
-
-
-
+        </article>
+      </section>
     </main>
-    <hr>
     <footer>
       <p>&copy; 2021 Maurice</p>
     </footer>
   </body>
-</html>
+-->
