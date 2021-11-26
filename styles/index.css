@@ -222,6 +222,16 @@ img {
 }
 */
 
+
+.bg-primary a,
+.btn-primary a,
+.bg-secondary a,
+.btn-secondary a,
+.bg-dark a,
+.btn-dark a {
+  color: #fff;
+}
+
 /* Text sizes */
 
 .lead {
@@ -266,6 +276,14 @@ img {
   height: 100%;
 }
 
+.grid-4 {
+  display: grid;
+  grid-template-columns: 5fr 2fr;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
 .grid-3 {
   grid-template-columns: repeat(3, 1fr);
 }
@@ -294,6 +312,145 @@ img {
   height: 100%;
   */
 }
+
+
+/* Languages */
+
+
+/*
+.languages .flex {
+  flex-wrap: wrap;
+}
+*/
+
+.languages .card {
+  text-align: center;
+  margin: 6px 5px 20px;
+  transition: transform 0.2s ease-in;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.languages .card h4 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.languages .card:hover {
+  transform: translateY(-15px);
+}
+
+/* Footer */
+.footer .social a {
+  margin: 0 10px;
+}
+
+
+
+/* Tablets and under */
+@media (max-width: 768px) {
+  .grid,
+  .showcase .grid,
+  .stats .grid,
+  .cli .grid,
+  .cloud .grid,
+  .features-main .grid,
+  .docs-main .grid {
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+  }
+
+  .showcase {
+    height: auto;
+  }
+
+  .showcase-text {
+    text-align: center;
+    margin-top: 40px;
+  }
+
+  .showcase-form {
+    justify-self: center;
+    margin: auto;
+  }
+
+  .cli .grid > *:first-child {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+
+  /*
+  .features-head,
+  .features-sub-head,
+  .docs-head {
+    text-align: center;
+  }
+
+  .features-head img,
+  .features-sub-head img,
+  .docs-head img {
+    justify-self: center;
+  }
+
+  .features-main .grid > *:first-child,
+  .features-main .grid > *:nth-child(2) {
+    grid-column: 1;
+  }
+  */
+}
+
+/* Mobile */
+@media (max-width: 500px) {
+  .navbar {
+    height: 110px;
+  }
+
+  .navbar .flex {
+    flex-direction: column;
+  }
+
+  .navbar ul {
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.1);
+  }
+  
+  .showcase-form {
+    width: 300px;
+  }
+}
+
+
+
+
+/* Tablet cards */
+@media (max-width: 700px) {
+  .languages .card {
+    text-align: center;
+    width: 100%;
+    object-fit: cover;
+    margin: 6px 5px 20px;
+    height: auto;
+    flex-basis: 30%;
+  }
+  .languages .flex {
+    flex-wrap: wrap;
+  } 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /* Margin */
