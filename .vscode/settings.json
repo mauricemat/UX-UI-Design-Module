@@ -4,10 +4,5 @@
   "editor.tabSize": 2,
   "files.autoSave": "onFocusChange",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "cSpell.words": [
-    "approah",
-    "EUREC",
-    "Italo",
-    "Upperadriatic"
-  ]
+  "cSpell.words": ["approah", "EUREC", "Italo", "stylelint", "Upperadriatic"]
 }

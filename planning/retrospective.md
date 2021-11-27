@@ -12,7 +12,6 @@
 - Working hard
 - Remain committed
 
-
 ## Start Doing
 
 - Creating our respective homepages
@@ -20,12 +19,12 @@
 
 ## Lessons Learned
 
-- Creating design requires a good understanding of the partner or user. 
-it requires also to take into account external factors (time, technical skills
-of the person who will develop the webpage).
+- Creating design requires a good understanding of the partner or user. it
+  requires also to take into account external factors (time, technical skills of
+  the person who will develop the webpage).
 
-- The design that we create is not for us. We need to keep a certain distance to avoid
-creating a design that pleases us, but not the partner or user. 
+- The design that we create is not for us. We need to keep a certain distance to
+  avoid creating a design that pleases us, but not the partner or user.
 
 ---
 
@@ -38,8 +37,6 @@ creating a design that pleases us, but not the partner or user.
 
 ### What parts of your plan did not work out?
 
-
 ### Did you need to add things that weren't in your strategy?
-
 
 ### Or remove extra steps?

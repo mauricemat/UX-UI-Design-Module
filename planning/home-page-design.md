@@ -255,8 +255,8 @@ color: sky blue; icons: use black color icons only.
 
 ### Summary - Final Feedback
 
-The design and the backlog are very logical. It make sense.
-He can use it for next phase.
+The design and the backlog are very logical. It make sense. He can use it for
+next phase.
 
 ---
 

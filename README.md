@@ -59,7 +59,6 @@ that your code will pass before pushing by running `npm run lint:md` locally.
   - The `master`/`main` branch must "_Require require branches to be up to date
     before merging_"
 
-
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
