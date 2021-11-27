@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap');
 
 :root {
-  --primary-color: #047aed;
+  --primary-color: #75889b;
   --secondary-color: #1c3fa8;
   --dark-color: #002240;
   --light-color: #f4f4f4;
@@ -14,7 +14,7 @@
 }
 
 body {
-  font-family: 'Noto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   color: #333;
   line-height: 1.6;
 }
@@ -28,8 +28,14 @@ a {
   color: #333;
 }
 
-h1, h2 {
+h1 {
   font-weight: 300;
+  line-height: 1.2;
+  margin: 10px 0;
+}
+
+h2 {
+  font-weight: 300 bold;
   line-height: 1.2;
   margin: 10px 0;
 }
@@ -44,9 +50,9 @@ img {
 
 /* Navbar */
 .navbar {
-  background-color: var(--primary-color);
-  color: #fff;
-  height: 70px;
+  background-color: var(--light-color);
+  color: rgb(10, 10, 10);
+  height: 100px;
 }
 
 .navbar ul {
@@ -54,12 +60,12 @@ img {
 }
 
 .navbar a:hover {
-  border-bottom: 2px solid #fff;
+  border-bottom: 2px solid red;
 }
 
 .navbar a {
-  color: #fff;
-  padding: 10px;
+  color: rgb(0, 0, 0);
+  padding: 5px;
   margin: 0 5px;
 
 }
@@ -72,7 +78,7 @@ img {
 .showcase {
   height: 400px;
   background-color: var(--primary-color);
-  color: #fff;
+  color: rgb(0, 0, 0);
   position: relative;
 }
 
@@ -278,10 +284,10 @@ img {
 
 .grid-4 {
   display: grid;
-  grid-template-columns: 5fr 2fr;
-  height: 100%;
   align-items: center;
   justify-content: center;
+  grid-template-columns: 5fr 2fr;  
+  height: 100%;
 }
 
 .grid-3 {
@@ -325,9 +331,9 @@ img {
 
 .languages .card {
   text-align: center;
-  margin: 6px 5px 20px;
   transition: transform 0.2s ease-in;
   width: 100%;
+  margin: 30px 5px 20px;
   height: auto;
   object-fit: cover;
 }
@@ -339,6 +345,34 @@ img {
 
 .languages .card:hover {
   transform: translateY(-15px);
+}
+
+.grid-5 {
+  margin-top: 50px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.container-card {
+  max-width: 1100px;
+  padding: 0 40px;
+}
+
+/* About me */
+.about-me img {
+  width: 200px;
+}
+
+.about-me .grid h1 {
+  text-decoration: underline red;
+}
+
+.languages .grid-5 h1 {
+  text-decoration: underline red;
 }
 
 /* Footer */
@@ -355,7 +389,7 @@ img {
   .stats .grid,
   .cli .grid,
   .cloud .grid,
-  .features-main .grid,
+  .achievements-main .grid,
   .docs-main .grid {
     grid-template-columns: 1fr;
     grid-template-rows: 1fr;
@@ -382,20 +416,20 @@ img {
 
 
   /*
-  .features-head,
-  .features-sub-head,
+  .achievements-head,
+  .achievements-sub-head,
   .docs-head {
     text-align: center;
   }
 
-  .features-head img,
-  .features-sub-head img,
+  .achievements-head img,
+  .achievements-sub-head img,
   .docs-head img {
     justify-self: center;
   }
 
-  .features-main .grid > *:first-child,
-  .features-main .grid > *:nth-child(2) {
+  .achievements-main .grid > *:first-child,
+  .achievements-main .grid > *:nth-child(2) {
     grid-column: 1;
   }
   */
@@ -538,3 +572,8 @@ img {
   padding: 4rem;
 }
 
+  /* Make the image fully responsive */
+  .carousel-inner img {
+    width: 50%;
+    height: 50%;
+  }
